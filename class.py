@@ -28,7 +28,7 @@
 
 
 #PRACTICA 4 - determina si un numero es primo: con "WHILE"
-
+#
 m = int(2);
 band = "V";
 
